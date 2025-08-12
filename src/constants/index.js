@@ -24,7 +24,8 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    flutter
 } from "../assets/icons";
 
 export const skills = [
@@ -109,9 +110,9 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: docker,
-        name:"Docker",
-        type:"Full Stack"
+        imageUrl: flutter,
+        name:"Flutter",
+        type:"Android Development",
     }
 ];
 

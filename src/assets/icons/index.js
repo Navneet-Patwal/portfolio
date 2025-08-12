@@ -27,6 +27,7 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import docker from "./docker.svg"
+import flutter from "./flutter.svg"
 
 export {
     css,
@@ -57,5 +58,6 @@ export {
     contact,
     soundon,
     soundoff, 
-    docker
+    docker,
+    flutter
 }
